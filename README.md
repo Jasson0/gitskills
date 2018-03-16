@@ -1,3 +1,3 @@
 # gitskills
-To learn more git skills。
+To learn more git 
 。。
